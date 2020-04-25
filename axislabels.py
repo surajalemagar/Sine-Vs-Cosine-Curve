@@ -4,6 +4,7 @@ x=np.arange(0,4*np.pi-1,0.1)# start,stop,step
 y=np.sin(x)
 z=np.cos(x)
 #i am bishal checking
+#i am suraj checking
 #plt.plot(x,y)
 #plt.plot(x,z)
 plt.plot(x,y,x,z)
