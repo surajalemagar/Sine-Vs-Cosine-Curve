@@ -1,1 +1,2 @@
 print("krisa")
+print("computer")
