@@ -3,6 +3,7 @@ import numpy as np
 x=np.arange(0,4*np.pi-1,0.1)# start,stop,step
 y=np.sin(x)
 z=np.cos(x)
+#krisa checking
 #i am bishal checking
 #i am suraj checking
 #plt.plot(x,y)
